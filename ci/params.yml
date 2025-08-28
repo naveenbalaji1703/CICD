@@ -1,5 +1,5 @@
 ---
 # Git repository configuration
-git-repo: manods/spring-boot-hello-world
+git-repo: naveenbalaji1703/CICD
 git-branch: main
-access_token:
+access_token: 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 
