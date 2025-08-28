@@ -25,7 +25,7 @@ jobs:
     - name: Build with Maven
       id: maven-build
       run: |
-        echo "Starting Maven Build....."
+        echo "Starting Maven Build......"
         mvn clean install -B -DskipTests=false
         echo "Build completed successfully!"
         
