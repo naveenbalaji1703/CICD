@@ -36,6 +36,7 @@ jobs:
         - |
           cd spring-boot-repo
           echo "Starting Maven build..."
+          #hello
           mvn clean install -B -DskipTests=false
           echo "Build completed successfully!"
           
