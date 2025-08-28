@@ -1,4 +1,4 @@
-git ---
+---
 resource_types:
   - name: pull-request
     type: registry-image
